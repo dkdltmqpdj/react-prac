@@ -1,2 +1,2 @@
-# react-prac
-https://wlstmd.notion.site/React-12a7ed89b6d1809b852ef88b058a56e7
+# react-practice
+https://wlstmd.notion.site/React-Practice-12e7ed89b6d1800a8981f37e1bc17e12
